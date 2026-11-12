@@ -1,6 +1,6 @@
 [app]
 
-title = AY QUIZS
+title = Quizverse
 
 package.name = ayquizcreator
 
@@ -12,7 +12,7 @@ source.include_exts = py,png,jpg,jpeg,kv,atlas,mp3,ttf,json,txt
 
 version = 1.0
 
-requirements = python3,kivy,pillow,requests
+requirements = python3,kivy,pillow,requests,urllib3,certifi,charset-normalizer,idna
 
 orientation = portrait
 
